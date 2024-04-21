@@ -1,0 +1,40 @@
+câu 1
+  "câu hỏi": "Thủ đô của Pháp là gì?",
+         "tùy chọn": ["A. Luân Đôn", "B. Berlin", "C. Paris", "D. Madrid"],
+         "trả lời": "C"
+  câu 2
+"câu hỏi": "2 + 2 là gì?",
+         "tùy chọn": ["A. 3", "B. 4", "C. 5", "D. 6"],
+         "trả lời": "B"
+  câu 3
+"câu hỏi": "Ngôn ngữ nào trong số này không phải là ngôn ngữ lập trình?",
+         "tùy chọn": ["A. Python", "B. Java", "C. HTML", "D. C++"],
+         "trả lời": "C"
+  câu 4
+"câu hỏi": "Hành tinh lớn nhất trong hệ mặt trời của chúng ta là gì?",
+         "tùy chọn": ["A. Trái đất", "B. Sao Hỏa", "C. Sao Mộc", "D. Sao Kim"],
+         "trả lời": "C"
+  câu 5
+"question": "Cái nào trong số này không phải là màu?",
+         "tùy chọn": ["A. Đỏ", "B. Xanh", "C. Tím", "D. Việt quất"],
+         "trả lời": "D"
+  câu 6
+"question": "Số nguyên tố nhỏ nhất là bao nhiêu?",
+         "tùy chọn": ["A. 1", "B. 2", "C. 3", "D. 4"],
+         "trả lời": "B"
+  câu 7
+"câu hỏi": "Cái nào trong số này không phải là hình dạng?",
+         "tùy chọn": ["A. Hình tròn", "B. Hình vuông", "C. Tam giác", "D. Cửa"],
+         "trả lời": "D"
+  câu 8
+ "câu hỏi": "Động vật có vú lớn nhất thế giới là gì?",
+         "tùy chọn": ["A. Voi", "B. Cá voi", "C. Sư tử", "D. Hươu cao cổ"],
+         "trả lời": "B"
+  câu 9
+"câu hỏi": "Cái nào trong số này không phải là trái cây?",
+         "tùy chọn": ["A. Táo", "B. Chuối", "C. Dưa hấu", "D. Ô tô"],
+         "trả lời": "D"
+  câu 10
+"câu hỏi": "Lục địa lớn nhất thế giới là gì?",
+         "tùy chọn": ["A. Châu Phi", "B. Châu Á", "C. Châu Âu", "D. Bắc Mỹ"],
+         "trả lời": "B"
